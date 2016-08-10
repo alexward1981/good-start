@@ -1,2 +1,2 @@
-# nerd-alert
-A repo for my comic book collector
+# good-start
+A selection of files and settings I like to use to start a new project.
