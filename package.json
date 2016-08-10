@@ -1,21 +1,21 @@
 {
-  "name": "nerd-alert",
+  "name": "good-start",
   "version": "0.0.1",
-  "description": "A comic book collection app",
+  "description": "Add a description",
   "main": "server.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexward1981/nerd-alert.git"
+    "url": "git+https://github.com/alexward1981/good-start.git"
   },
   "author": "Alex Ward",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alexward1981/nerd-alert/issues"
+    "url": "https://github.com/alexward1981/good-start/issues"
   },
-  "homepage": "https://github.com/alexward1981/nerd-alert#readme",
+  "homepage": "https://github.com/alexward1981/good-start#readme",
   "dependencies": {
     "stylus": "^0.54.5",
     "axios": "^0.9.1",
